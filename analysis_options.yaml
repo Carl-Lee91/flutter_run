@@ -1,0 +1,19 @@
+
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_dynamic_calls: true
+    avoid_positional_boolean_parameters: true
+    avoid_unused_constructor_parameters: true
+    avoid_void_async: true
+    cancel_subscriptions: true
+    close_sinks: true
+    parameter_assignments: true
+    prefer_final_in_for_each: true
+    prefer_single_quotes: true
+    require_trailing_commas: true
+    unnecessary_lambdas: true
+    unnecessary_parenthesis: true
+    use_named_constants: true
+    prefer_relative_imports: true
